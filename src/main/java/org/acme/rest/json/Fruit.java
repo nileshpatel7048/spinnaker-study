@@ -1,7 +1,7 @@
 package org.acme.rest.json;
 
 public class Fruit {
-
+    //Added comment
     public String name;
     public String description;
 
