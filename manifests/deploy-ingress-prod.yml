@@ -12,5 +12,5 @@ spec:
                 paths:
                     -   path: /mild-temper(/|$)(.*)
                         backend:
-                            serviceName: mild-temper-microservice-service
+                            serviceName: nilesh-solo-microservice-service
                             servicePort: 30201
